@@ -1,7 +1,12 @@
 package main
 
 func main() {
-	day1part2()
+  // day1part1()
+  // day1part2()
+	// day2part1()
+  // day2part2()
+  day3part1()
+  // day3part2()
 }
 
 func sum(array []int) int {
